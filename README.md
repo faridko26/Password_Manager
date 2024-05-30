@@ -1,6 +1,8 @@
 # Password Manager
 
 
+![Password Manager](password_manager_image.png)
+
 ## Description
 
 This is a Python-based password manager application that securely stores and manages your passwords. The application utilizes MySQL database for storage and encryption techniques to ensure the security of your sensitive information.
