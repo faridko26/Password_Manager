@@ -1,0 +1,4 @@
+pyperclip==1.7.0
+getpass4==0.0.14.1
+cryptography==42.0.7
+mysql-connector-python==8.4.0
