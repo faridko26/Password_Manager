@@ -23,7 +23,7 @@ This is a Python-based password manager application that securely stores and man
 
    ```sh
    # Create a virtual environment
-   python3 -m venv myenv
+   python3.8.3 -m venv myenv
 
    # Activate the virtual environment
    # On Windows:
@@ -37,8 +37,11 @@ This is a Python-based password manager application that securely stores and man
 ## Usage
 
 ### Run the Program
-After installing MySQL Database, activating the virtual environment, and installing dependencies, you are ready to use the password manager application. Run the program using your preferred Python environment.
-
+After installing MySQL Database, activating the virtual environment, and installing dependencies, you are ready to use the password manager application. Navigate to the project directory and run the program using the terminal.
+   
+   ```sh
+   python3 main.py
+```
 ### Login Credentials
 You will be prompted to provide your MySQL database username (root is default username) and password. These credentials are required to establish a connection with the database.
 
