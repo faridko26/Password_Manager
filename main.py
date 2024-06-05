@@ -58,4 +58,5 @@ class PasswordManagerApp:
 if __name__ == "__main__":
 
     app = PasswordManagerApp()
+    # run the app
     app.run()
